@@ -21,7 +21,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Kal-El",
       "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
+      "characters": "Kal-El",
+      "alt_img": "https://www.lanacion.com.ar/resizer/v2/los-creadores-del-hombre-de-acero-jerry-siegel-y-NT4G7GBOYRDY5H65YVVV5RMSTY.jpg?auth=e9a9f88b335410e6d1a3479926c01022a61c9425dd79bb461b7e07a537996a0c&width=420&height=630&quality=70&smart=true"
     },
     {
       "id": "dc-flash",
@@ -166,6 +167,24 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "bkY_iX1",
+      "superhero": "Aquaman",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Aquaman Comic #1",
+      "first_appearance": "En 2015",
+      "characters": "Santiago",
+      "alt_img": "https://upload.wikimedia.org/wikipedia/en/9/9d/Aquaman_Rebirth_1.png"
+    },
+    {
+      "id": "9m7C3En",
+      "superhero": "Aquaman",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Aquaman Comic #1",
+      "first_appearance": "En 2015",
+      "characters": "Santiago",
+      "alt_img": "https://upload.wikimedia.org/wikipedia/en/9/9d/Aquaman_Rebirth_1.png"
     }
   ]
 }
