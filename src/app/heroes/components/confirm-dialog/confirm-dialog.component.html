@@ -1,0 +1,9 @@
+<h1 mat-dialog-title>¿Está seguro de eliminar a {{ data.superhero }}?</h1>
+<div mat-dialog-content>
+  <p>Esta acción no es reversible</p>
+</div>
+<div mat-dialog-actions>
+  <button mat-button color="warn" (click)="onNoClick()">Volver</button>
+  <span class="spacer"></span>
+  <button mat-button color="primary" (click)="onConfirm()" cdkFocusInitial>Confirmar</button>
+</div>
